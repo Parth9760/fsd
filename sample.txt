@@ -1,4 +1,84 @@
-parth
-Singhal
-paaa
-paa
+2 git init
+   3 git status
+   4 git config --global user.email "jayanth.d@topgrep.com"
+   5 git config --list
+   6 git config --list
+   7 git config --list
+   8 git config --list
+   9 clear
+  10 sjdgf
+  11 dsflsdf
+  12 cls
+  13 sdfhsdf
+  14 git --help
+  15 git init
+  16 git config --list
+  17 clear
+  18 git status
+  19 git add .\sample.txt
+  20 git status
+  21 git rm .\sample.txt
+  22 git status
+  23 git rm --cached .\sample.txt
+  24 git status
+  25 git add .\sample.txt
+  26 git status
+  27 git commit -m "created sample.txt"
+  28 git log
+  29 git status
+  30 git diff
+  31 git add .
+  32 git status
+  33 git commit -m "first line added"
+  34 git log
+  35 git branch
+  36 git branch new_branch
+  37 git branch
+  38 git checkout new_branch
+  39 git branch
+  40 git switch main
+  41 git checkout -b del_branch
+  42 git branch
+  43 git checkout main
+  44 git branch
+  45 git branch -d del_branch
+  46 git branch
+  47 git branch
+  48 git checkout new_branch
+  49 git branch
+  50 git status
+  51 git add .\sample.txt
+  52 git status
+  53 git commit -m "added second line"
+  54 git log
+  55 git checkout main
+  56 git branch
+  57 git log
+  58 git merge new_branch
+  59 git log
+  60 git branch
+  61 git checkout new_branch
+  62 git log
+  63 git checkout main
+  64 git branch
+  65 git branch conflict_branch
+  66 git branch
+  67 git checkout conflict_branch
+  68 git branch
+  69 git status
+  70 git add .\sample.txt
+  71 git status
+  72 git commit -m "thrid line from conflict_branch"
+  73 git log
+  74 git switch main
+  75 git status
+  76 git add .\sample.txt
+  77 git status
+  78 git commit -m "third line from main branch"
+  79 git log
+  80 git merge conflict_branch
+  81 git status
+  82 git add .\sample.txt
+  83 git status
+  84 git commit -m "conflict resolved"
+  85 git log
